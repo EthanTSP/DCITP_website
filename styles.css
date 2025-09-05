@@ -1,0 +1,21 @@
+:root {
+    --primary: #d3bdd3;
+    --secondary: #3d2040;
+    --accent:#bda4c6;
+    --dark-text: #6c3f72;
+    --background:#8f659c;
+}
+
+
+
+
+main {
+    font-family: 'Courier Prime';
+    color: var(--secondary);
+    background-color:var(--accent);
+}
+
+body header div {
+    background-color: var(--background);
+    color: var(--primary)
+}
